@@ -1,0 +1,13 @@
+# anz_com_au/CHANGELOG
+
+## 20261116
+
+0.0.0: + AnzComAu::VERSION
+
+1. + lib/anz_com_au.rb
+2. + AnzComAu::VERSION
+3. + anz_com_au.gemspec
+4. + Gemfile
+5. + Rakefile
+6. + README.md
+7. + LICENSE
